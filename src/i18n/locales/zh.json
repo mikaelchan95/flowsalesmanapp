@@ -1,0 +1,63 @@
+{
+  "common": {
+    "dashboard": "仪表板",
+    "newOrder": "新订单",
+    "customers": "客户",
+    "products": "产品",
+    "orderTracking": "订单跟踪",
+    "profile": "个人资料",
+    "settings": "设置",
+    "helpSupport": "帮助与支持",
+    "logout": "登出"
+  },
+  "dashboard": {
+    "title": "仪表板",
+    "totalSales": "总销售额",
+    "outstandingBalance": "未结余额",
+    "totalCustomers": "总客户数",
+    "averageOrderValue": "平均订单价值",
+    "topSellingProduct": "最畅销产品",
+    "lowStockAlert": "低库存警报",
+    "salesSummary": "销售摘要",
+    "performanceMetrics": "绩效指标"
+  },
+  "newOrder": {
+    "title": "新销售订单",
+    "customerInfo": "客户信息",
+    "orderItems": "订单项目",
+    "orderDetails": "订单详情",
+    "orderSummary": "订单摘要",
+    "subtotal": "小计",
+    "gst": "消费税 (9%)",
+    "total": "总计",
+    "createOrder": "创建订单"
+  },
+  "customers": {
+    "title": "客户数据库",
+    "addCustomer": "添加客户",
+    "exportCSV": "导出CSV",
+    "importCSV": "导入CSV",
+    "downloadTemplate": "下载模板",
+    "customerStats": "客户统计",
+    "customerTypeDistribution": "客户类型分布",
+    "recentCustomers": "最近客户",
+    "topCustomers": "顶级客户",
+    "customerGrowth": "客户增长"
+  },
+  "products": {
+    "title": "产品目录",
+    "searchProducts": "搜索产品",
+    "addToCart": "加入购物车",
+    "updateCart": "更新购物车"
+  },
+  "orderTracking": {
+    "title": "订单跟踪",
+    "totalOrders": "总订单数",
+    "totalQuotations": "总报价数",
+    "totalRevenue": "总收入",
+    "pendingOrders": "待处理订单",
+    "searchOrders": "搜索订单...",
+    "orderDetails": "订单详情",
+    "quotationDetails": "报价详情"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "common": {
+    "dashboard": "대시보드",
+    "newOrder": "새 주문",
+    "customers": "고객",
+    "products": "제품",
+    "orderTracking": "주문 추적",
+    "profile": "프로필",
+    "settings": "설정",
+    "helpSupport": "도움말 및 지원",
+    "logout": "로그아웃"
+  },
+  "dashboard": {
+    "title": "대시보드",
+    "totalSales": "총 매출",
+    "outstandingBalance": "미결제 잔액",
+    "totalCustomers": "총 고객 수",
+    "averageOrderValue": "평균 주문 가치",
+    "topSellingProduct": "최고 판매 제품",
+    "lowStockAlert": "재고 부족 경고",
+    "salesSummary": "판매 요약",
+    "performanceMetrics": "성과 지표"
+  },
+  "newOrder": {
+    "title": "새 판매 주문",
+    "customerInfo": "고객 정보",
+    "orderItems": "주문 항목",
+    "orderDetails": "주문 상세",
+    "orderSummary": "주문 요약",
+    "subtotal": "소계",
+    "gst": "부가가치세 (9%)",
+    "total": "합계",
+    "createOrder": "주문 생성"
+  },
+  "customers": {
+    "title": "고객 데이터베이스",
+    "addCustomer": "고객 추가",
+    "exportCSV": "CSV 내보내기",
+    "importCSV": "CSV 가져오기",
+    "downloadTemplate": "템플릿 다운로드",
+    "customerStats": "고객 통계",
+    "customerTypeDistribution": "고객 유형 분포",
+    "recentCustomers": "최근 고객",
+    "topCustomers": "상위 고객",
+    "customerGrowth": "고객 성장"
+  },
+  "products": {
+    "title": "제품 카탈로그",
+    "searchProducts": "제품 검색",
+    "addToCart": "장바구니에 추가",
+    "updateCart": "장바구니 업데이트"
+  },
+  "orderTracking": {
+    "title": "주문 추적",
+    "totalOrders": "총 주문 수",
+    "totalQuotations": "총 견적 수",
+    "totalRevenue": "총 수익",
+    "pendingOrders": "대기 중인 주문",
+    "searchOrders": "주문 검색...",
+    "orderDetails": "주문 상세",
+    "quotationDetails": "견적 상세"
+  }
+}
